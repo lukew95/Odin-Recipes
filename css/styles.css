@@ -16,12 +16,13 @@ h1{
     text-align: center;
 }
 
-li{
-    margin: 0 0 15px 0;
+p{
+    font-weight: 500;
 }
 
-ol{
+li{
     margin: 0 0 15px 0;
+    font-weight: 500;
 }
 
 img{
@@ -30,4 +31,8 @@ img{
     display: block;
     margin: 0 auto 30px auto;
     border-radius: 5%;
+}
+
+a{
+    color: #272727;
 }
